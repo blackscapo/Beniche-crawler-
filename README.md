@@ -61,8 +61,6 @@ pip freeze > requirements.txt
 Additional Setup
 
     Playwright Browsers: Install the required browsers for Playwright:
-    bash
-    Copy
 
     playwright install
 
