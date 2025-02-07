@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+playwright
+redis
+twocaptcha
+prometheus_client
+sentry-sdk
+scrapinghub
+tkinter
