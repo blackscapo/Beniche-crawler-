@@ -24,7 +24,7 @@ Features
 
 ## Screenshot
 
-![Screenshot](beniche-crawler.png)
+![Screenshot](awc.png)
 
 
 
